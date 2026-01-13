@@ -14,7 +14,7 @@
     "@babel/plugin-transform-class-properties": "workspace:^",
     "@babel/plugin-transform-private-methods": "workspace:^",
     "@babel/preset-env": "workspace:^",
-    "@babel/preset-flow": "workspace:^",
+    "@babel/preset-flow": "7.0.0",
     "@babel/preset-react": "7.0.0",
     "eslint": "^9.0.0"
   },
