@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/plugin-syntax-export-default-from": "workspace:^"
+    "@babel/plugin-syntax-export-default-from": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
