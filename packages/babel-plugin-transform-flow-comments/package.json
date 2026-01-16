@@ -17,8 +17,8 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/generator": "workspace:^",
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/generator": "7.0.0",
+    "@babel/helper-plugin-utils": "7.0.0",
     "@babel/plugin-syntax-flow": "workspace:^"
   },
   "peerDependencies": {
