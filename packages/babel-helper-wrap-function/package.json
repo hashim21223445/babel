@@ -16,8 +16,8 @@
   "dependencies": {
     "@babel/helper-function-name": "workspace:^",
     "@babel/template": "workspace:^",
-    "@babel/traverse": "workspace:^",
-    "@babel/types": "workspace:^"
+    "@babel/traverse": "7.0.0",
+    "@babel/types": "7.0.0"
   },
   "engines": {
     "node": ">=6.9.0"
