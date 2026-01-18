@@ -15,7 +15,7 @@
   "dependencies": {
     "@babel/helper-hoist-variables": "workspace:^",
     "@babel/helper-module-transforms": "workspace:^",
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/helper-plugin-utils": "7.0.0",
     "@babel/helper-validator-identifier": "workspace:^"
   },
   "keywords": [
