@@ -17,7 +17,7 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/helper-plugin-utils": "7.0.0",
     "@babel/plugin-syntax-numeric-separator": "condition:BABEL_8_BREAKING ? : ^7.10.4"
   },
   "peerDependencies": {
