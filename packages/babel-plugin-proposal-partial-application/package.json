@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/plugin-syntax-partial-application": "workspace:^"
+    "@babel/plugin-syntax-partial-application": "7.4.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
