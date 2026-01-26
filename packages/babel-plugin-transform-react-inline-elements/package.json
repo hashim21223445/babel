@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@babel/helper-builder-react-jsx": "7.0.0",
-    "@babel/helper-plugin-utils": "workspace:^"
+    "@babel/helper-plugin-utils": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
