@@ -20,7 +20,7 @@
     "types"
   ],
   "dependencies": {
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/helper-plugin-utils": "7.0.0",
     "@babel/helper-validator-option": "workspace:^",
     "@babel/plugin-transform-flow-strip-types": "7.0.0"
   },
