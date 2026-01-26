@@ -19,7 +19,7 @@
     "@babel/helper-plugin-utils": "workspace:^",
     "@babel/plugin-syntax-destructuring-private": "workspace:^",
     "@babel/plugin-transform-destructuring": "workspace:^",
-    "@babel/plugin-transform-parameters": "workspace:^"
+    "@babel/plugin-transform-parameters": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.17.0"
