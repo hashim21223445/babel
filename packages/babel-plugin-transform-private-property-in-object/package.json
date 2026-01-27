@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@babel/helper-annotate-as-pure": "workspace:^",
-    "@babel/helper-create-class-features-plugin": "workspace:^",
+    "@babel/helper-create-class-features-plugin": "7.2.0",
     "@babel/helper-plugin-utils": "7.0.0",
     "@babel/plugin-syntax-private-property-in-object": "condition:BABEL_8_BREAKING ? : ^7.14.5"
   },
