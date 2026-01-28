@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "@babel/helper-hoist-variables": "workspace:^",
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/helper-plugin-utils": "7.0.0",
     "@babel/plugin-syntax-async-do-expressions": "7.14.0"
   },
   "peerDependencies": {
