@@ -20,7 +20,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@babel/traverse": "workspace:^",
+    "@babel/traverse": "7.0.0",
     "@babel/types": "7.0.0"
   },
   "engines": {
