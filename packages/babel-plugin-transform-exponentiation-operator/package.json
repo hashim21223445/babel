@@ -17,7 +17,7 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/helper-builder-binary-assignment-operator-visitor": "workspace:^",
+    "@babel/helper-builder-binary-assignment-operator-visitor": "7.0.0",
     "@babel/helper-plugin-utils": "7.0.0"
   },
   "peerDependencies": {
