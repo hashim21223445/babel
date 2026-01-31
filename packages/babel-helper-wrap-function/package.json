@@ -15,7 +15,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "@babel/helper-function-name": "workspace:^",
-    "@babel/template": "workspace:^",
+    "@babel/template": "7.0.0",
     "@babel/traverse": "7.0.0",
     "@babel/types": "7.0.0"
   },
