@@ -17,7 +17,7 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/helper-plugin-utils": "7.0.0",
     "@babel/helper-wrap-function": "7.0.0",
     "@babel/plugin-syntax-function-sent": "7.0.0"
   },
