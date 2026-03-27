@@ -89,7 +89,7 @@
     "@babel/plugin-transform-typeof-symbol": "workspace:^",
     "@babel/plugin-transform-unicode-escapes": "workspace:^",
     "@babel/plugin-transform-unicode-property-regex": "workspace:^",
-    "@babel/plugin-transform-unicode-regex": "workspace:^",
+    "@babel/plugin-transform-unicode-regex": "7.0.0",
     "@babel/plugin-transform-unicode-sets-regex": "7.22.0",
     "@babel/preset-modules": "0.1.6-no-external-plugins",
     "babel-plugin-polyfill-corejs2": "condition:BABEL_8_BREAKING ? : ^0.4.10 (peer:@babel/core) (esm:default)",
