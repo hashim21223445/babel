@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "@babel/helper-module-imports": "workspace:^",
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/helper-plugin-utils": "7.0.0",
     "@babel/helper-validator-option": "workspace:^",
     "@babel/plugin-syntax-record-and-tuple": "7.9.0"
   },
