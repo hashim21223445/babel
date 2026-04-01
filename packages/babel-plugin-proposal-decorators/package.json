@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "@babel/helper-create-class-features-plugin": "workspace:^",
-    "@babel/helper-plugin-utils": "workspace:^",
+    "@babel/helper-plugin-utils": "7.0.0",
     "@babel/plugin-syntax-decorators": "7.0.0"
   },
   "peerDependencies": {
