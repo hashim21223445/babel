@@ -5,7 +5,7 @@
     "@babel/runtime": "workspace:^",
     "@rollup/plugin-commonjs": "^24.1.0",
     "@rollup/plugin-node-resolve": "^15.0.2",
-    "rollup": "^2.79.1"
+    "rollup": "^2.80.0"
   },
   "type": "commonjs"
 }
