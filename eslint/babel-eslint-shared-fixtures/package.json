@@ -12,11 +12,11 @@
     "@babel/plugin-proposal-pipeline-operator": "workspace:^",
     "@babel/plugin-syntax-export-default-from": "workspace:^",
     "@babel/plugin-transform-class-properties": "workspace:^",
-    "@babel/plugin-transform-private-methods": "workspace:^",
+    "@babel/plugin-transform-private-methods": "7.22.0",
     "@babel/preset-env": "workspace:^",
     "@babel/preset-flow": "7.0.0",
     "@babel/preset-react": "7.0.0",
-    "eslint": "^9.0.0"
+    "eslint": "^9.26.0"
   },
   "type": "commonjs"
 }
