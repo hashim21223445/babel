@@ -26,7 +26,7 @@
     "@babel/helper-replace-supers": "7.0.0",
     "@babel/helper-skip-transparent-expression-wrappers": "workspace:^",
     "@babel/helper-split-export-declaration": "workspace:^",
-    "semver": "1.0.0"
+    "semver": "1.0.1"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0"

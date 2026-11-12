@@ -20,7 +20,7 @@
   "dependencies": {
     "@babel/helper-annotate-as-pure": "7.0.0",
     "regexpu-core": "^5.3.1",
-    "semver": "1.0.0"
+    "semver": "1.0.1"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0"
